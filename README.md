@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Álvaro Nicolás Navarro (@alvarowops)
+# 👋 Hi, I’m Álvaro Navarro (@alvarowops)
 
 🚀 **Infrastructure and Technological Platforms Engineer** specializing in Cloud Architecture, SRE, and DevOps with a passion for building scalable and resilient infrastructures.
 
